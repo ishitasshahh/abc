@@ -3,7 +3,7 @@
 
 terraform {
   cloud {
-    organization = "morningstardemo2"
+    organization = "Ishita-mg"
     ## Required for Terraform Enterprise; Defaults to app.terraform.io for Terraform Cloud
     hostname = "app.terraform.io"
 
