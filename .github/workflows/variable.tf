@@ -6,5 +6,5 @@ variable "skey" {
 }
 variable "location" {
   type = string
-  default = "ap-south-1"
+  default = "ap-northeast-3"
 }
