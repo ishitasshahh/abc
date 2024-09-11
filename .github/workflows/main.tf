@@ -8,7 +8,7 @@ terraform {
     hostname = "app.terraform.io"
 
     workspaces {
-      tags = ["abc"]
+      tags = ["morningstar"]
     }
   }
 }
