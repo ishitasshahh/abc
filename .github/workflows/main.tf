@@ -13,13 +13,13 @@ terraform {
   }
 }
 
-resource "aws_s3_bucket" "morningstar_b1" {
-  bucket = "morningstar-cloudbucket31431"
+resource "aws_s3_bucket" "morningstar_b11" {
+  bucket = "morningstar-11thsep"
 }
 
-resource "aws_s3_bucket" "morningstar_b2" {
-  bucket = "morningstar-cloudbucket5121"
+resource "aws_s3_bucket" "morningstar_b12" {
+  bucket = "morningstar-11th"
 }
-resource "aws_s3_bucket" "morningstar_b3" {
-  bucket = "morningstar-cloudbucketb3"
+resource "aws_s3_bucket" "morningstar_b13" {
+  bucket = "morningstar-11sep"
 }
